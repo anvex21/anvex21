@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alkin Vezhdi</h1>
-<h3 align="center">A 20-year-old student currently living and studying in Razgrad, Bulgaria.</h3>
+<h3 align="center">A 20-year-old student currently living and studying in Varna, Bulgaria.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alkin-vezhdi-b35a09205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkin-vezhdi-b35a09205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alkin-vezhdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkin-vezhdi-b35a09205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
