@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alkin Vezhdi</h1>
-<h3 align="center">A 20-year-old student currently living and studying in Varna, Bulgaria.</h3>
+<h3 align="center">A 21-year-old student currently living and studying in Varna, Bulgaria.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
