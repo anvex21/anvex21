@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anvex21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Used technologies/languages
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,github,git,mysql,js,nodejs,html,css,cpp,docker,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,github,git,mysql,postgres,js,nodejs,html,css,cpp,java,spring,gradle,docker,vscode,visualstudio,idea)](https://skillicons.dev)
 
 ### Let's Connect
 [<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/alkin-vezhdi/)
