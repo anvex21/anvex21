@@ -15,5 +15,8 @@
 
 ### Let's Connect
 [<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/alkin-vezhdi/)
+<a href="mailto:alkinvejdi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/>
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient" alt="footer"/> 
