@@ -5,7 +5,7 @@
 </a>
 
 ### About Me
-<p style = "text-align: justify;">I am a 21-year-old student at the University of Economics – Varna, pursuing a degree in Informatics and Computer Science. Driven by a passion for growth, I am focused on expanding my skills and abilities in the world of coding and software development. </p>
+<p style = "text-align: justify;">I am a 22-year-old student at the University of Economics – Varna, pursuing a degree in Informatics and Computer Science. Driven by a passion for growth, I am focused on expanding my skills and abilities in the world of coding and software development. </p>
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anvex21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
